@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open('http://example.com') 
+webbrowser.open('http://people.tamu.edu/~nguyen.ngv') 
